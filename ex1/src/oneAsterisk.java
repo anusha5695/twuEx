@@ -1,4 +1,4 @@
-public class ex12
+public class oneAsterisk
 {
 	public static void main(String [] args) throws Exception
 	{
